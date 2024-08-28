@@ -1,3 +1,3 @@
-# tictac
+# Tic-Tac-Toe
 
-## This tictac project was programmed with React.js
+### This Tic-Tac-Toe game was programmed with React.js
